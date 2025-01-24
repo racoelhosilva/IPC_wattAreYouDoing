@@ -15,7 +15,7 @@ The project was divided into three phases:
 > Phase I (30%): 18.7  
 > Phase II (30%): 18.8  
 > Phase III (30%): 19.1  
-> Final Report (10%): 20.0
+> Final Report (10%): 20.0  
 > Final Grade: 19.0  
 > Professors: Thiago Sobral  
 > Created in October 2024 for IPC (Interação Pessoa Computador)  
